@@ -11,3 +11,4 @@ langchain_huggingface
 langchain-openai
 PyPDF2
 python-dotenv
+
