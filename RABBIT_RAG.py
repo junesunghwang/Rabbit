@@ -12,7 +12,7 @@ from langchain_openai import ChatOpenAI
 
 
 # 0) 환경 변수 로드
-PDF_PATH = "토끼와_거북이_줄거리.pdf"
+PDF_PATH = "rabbit-and-turtle-traditional-korean-story-and-worksheet.pdf"
 
 # 1) PDF에서 문서 로드
 def load_documents_from_pdf(pdf_path: str):
@@ -128,3 +128,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
